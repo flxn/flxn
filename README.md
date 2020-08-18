@@ -8,7 +8,7 @@
 
 #### Some of my projects
 ---
-🚀 [3D-print QR-Codes with qrcode2stl](https://flxn.de/qrcode2stl/) // :octocat: https://github.com/flxn/qrcode2stl
+🚀 [3D-print QR-Codes with qrcode2stl](https://printer.tools/qrcode2stl/) // :octocat: https://github.com/flxn/qrcode2stl
 
 🧅 [Deploy your own Tor node in seconds with tor-relay.co](https://tor-relay.co/) // :octocat: https://github.com/flxn/tor-relay-configurator
 
